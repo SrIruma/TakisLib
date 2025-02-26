@@ -1,0 +1,8 @@
+me\kozmio\takisLib\interfaces\BaseMenu.class
+me\kozmio\takisLib\Colors\Legacy.class
+me\kozmio\takisLib\Colors\Gradients.class
+me\kozmio\takisLib\Colors\HexColors.class
+me\kozmio\takisLib\enums\Rows.class
+me\kozmio\takisLib\TakisLib.class
+me\kozmio\takisLib\utils\YmlManager.class
+me\kozmio\takisLib\Colors\Colorize.class

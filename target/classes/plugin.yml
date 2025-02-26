@@ -1,0 +1,6 @@
+name: TakisLib
+version: '1.0.0'
+main: me.kozmio.takisLib.TakisLib
+api-version: '1.21'
+authors: SrIruma
+description: A multifunctional minecraft library
